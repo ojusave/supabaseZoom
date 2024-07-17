@@ -32,7 +32,11 @@ Add the following to your `.env` file:
 
 
 
-ZOOM_CLIENT_ID=your_client_id ZOOM_CLIENT_SECRET=your_client_secret ZOOM_ACCOUNT_ID=your_account_id ZOOM_BOT_JID=your_bot_jid PORT=4000
+ZOOM_CLIENT_ID=your_client_id 
+ZOOM_CLIENT_SECRET=your_client_secret 
+ZOOM_ACCOUNT_ID=your_account_id 
+ZOOM_BOT_JID=your_bot_jid 
+PORT=4000
 
 
 ## Running the Application
